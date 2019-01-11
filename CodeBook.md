@@ -1,8 +1,7 @@
-==================================================================
-Getting & CLeaning Data Course Project: Tidy Dataset
+Getting & Cleaning Data Course Project: Tidy Dataset
+====================================================
 Brooke L. Hawkins
 January 2019
-==================================================================
 
 Summary
 =======
