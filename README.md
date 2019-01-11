@@ -31,7 +31,7 @@ This new dataset includes the following files:
 - 'README.md': Describes the background of this project and files included
 - 'CodeBook.md': Describes the data, variables, and transformations performed on the UCI dataset to get the tidy dataset
 - 'run_analysis.R': The script that transforms the UCI dataset into the tidy dataset
-- 'tidy.csv': The tidy dataset
+- 'tidy.txt': The tidy dataset
 
 
 Setup Notes

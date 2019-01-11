@@ -98,6 +98,7 @@ tidy.dataset <- X %>%
     group_by(Subject, Activity) %>% 
     summarise_at(3:68, mean)
 
-# save tidy dataset as csv
-write.csv(tidy.dataset, file = paste0(work.dir, "tidy.csv"))
+# save tidy dataset as txt file
+write.table(tidy.dataset, row.names = F, col.names = F, 
+            file = paste0(work.dir, "tidy.txt"))
 
