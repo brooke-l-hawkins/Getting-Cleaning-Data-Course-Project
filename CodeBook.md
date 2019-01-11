@@ -49,6 +49,7 @@ The remaining variables are all averages of features from the UCI dataset. Varia
 - the 'Z' suffix refers to motion in the Z direction
 
 For example...
+
 tBodyAccStdX: the average of the standard deviation (Std) of the time-derived (t) accelerometer signal (Acc) from the subject's body movements (Body) in the X-direction (X)
 
 fBodyAccMeanY: the average of the average (Mean) of the frequency-domain (f) accelerometer signal (Acc) from the subject's body movements (Body) in the Y-direction (Y)
